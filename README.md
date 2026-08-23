@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <sub>🇹🇳 École Polytechnique de Tunisie &nbsp;→&nbsp; 🇫🇷 Télécom Paris</sub>
+  <sub>🇹🇳 École Polytechnique de Tunisie &nbsp;&nbsp; 🇫🇷 Télécom Paris</sub>
 </p>
 
 <br>
@@ -125,9 +125,7 @@ Recent work has given me hands-on exposure to research-oriented computer vision 
 
 ### Contact
 
-- **LinkedIn** — <!-- add your profile URL -->
-- **Email** — aymen.ouerghi@ept.ucar.tn
+- **LinkedIn** — [@Aymen_Ouerghi]([https://github.com/letdatatalk-ao](https://www.linkedin.com/in/aymen-ouerghi-a04120248/))
 - **GitHub** — [@letdatatalk-ao](https://github.com/letdatatalk-ao)
-- **Google Scholar** — <!-- add later when available -->
 
 <p align="center"><sub>Serious about the work · open to research and R&amp;D collaboration.</sub></p>
